@@ -1,2 +1,5 @@
 # zn_websocket
-Простой WebSocket сервер на PHP
+Простой echo WebSocket сервер на PHP. Для работы необходим модуль php «sockets» (http://php.net/sockets).
+
+Запуск
+$ php proc.php
